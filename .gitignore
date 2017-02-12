@@ -8,7 +8,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+*build.xml
 ### OSX ###
 *.DS_Store
 .AppleDouble

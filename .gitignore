@@ -4,10 +4,12 @@
 ### NetBeans ###
 nbproject/private/
 build/
-*nbbuild/
+nbproject/
+nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+*manifest.mf
 *build.xml
 ### OSX ###
 *.DS_Store
